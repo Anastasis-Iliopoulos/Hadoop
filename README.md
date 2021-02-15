@@ -22,5 +22,5 @@ hadoop HDFS
 
 	Usage: <input-dir> <output-dir>
 
-* if output dir is not empty, delete everything inside (or change output dir).
+* if output dir is not empty, delete (or change output dir).
 * if output dir does not exist it will automatically created.
